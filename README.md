@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzymonBajbak
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any projects related to web development
 - 📫 How to reach me: https://www.facebook.com/Szymon.Bajbak/
 
